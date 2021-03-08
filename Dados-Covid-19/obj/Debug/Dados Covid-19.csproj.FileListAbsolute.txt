@@ -1,0 +1,15 @@
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados Covid-19.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados_Covid_19.Form1.resources
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados_Covid_19.Properties.Resources.resources
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados Covid-19.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados Covid-19.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\bin\Debug\Dados Covid-19.exe.config
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\bin\Debug\Dados Covid-19.exe
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\bin\Debug\Dados Covid-19.pdb
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\bin\Debug\RestSharp.dll
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\bin\Debug\RestSharp.xml
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados Covid-19.csproj.CopyComplete
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados Covid-19.exe
+C:\Users\Casa\source\repos\Dados Covid-19\Dados Covid-19\obj\Debug\Dados Covid-19.pdb
